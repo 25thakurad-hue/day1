@@ -1,2 +1,2 @@
-#python day1
+#day1
 python day1
